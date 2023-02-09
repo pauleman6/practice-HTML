@@ -1,0 +1,42 @@
+/* commensts *
+selected tag{
+    property:value;
+}
+*/
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Yanone+Kaffeesatz:wght@300&display=swap');
+
+
+body{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+img{
+    max-width: 300px;
+    border-radius: 100px;
+    float:left;
+    margin-right: 10px
+
+}
+
+h1{
+    color:blue;
+}
+
+h2{
+    color:red;
+}
+
+li{
+    color:rgb(106,229,89);
+}
+
+h3{
+    color:rgba(106, 229, 89, 10)
+}
+
+p{
+    color:#6531ea;
+}
